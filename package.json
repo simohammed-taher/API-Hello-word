@@ -1,0 +1,23 @@
+{
+  "name": "api-hello-word",
+  "version": "1.0.0",
+  "description": "`npm init -y` créer un fichier **packege.json**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhamed/API-Hello-word.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samhamed/API-Hello-word/issues"
+  },
+  "homepage": "https://github.com/samhamed/API-Hello-word#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
